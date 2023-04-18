@@ -1,6 +1,10 @@
-# RS speech
+# Rust speech
 
 ## Links
+
+### Get rustup
+
+[Link](https://www.rust-lang.org/tools/install)
 
 ### Learn matrial
 
